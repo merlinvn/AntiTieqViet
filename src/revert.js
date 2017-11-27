@@ -19,7 +19,7 @@
 
 const mapsReverseStart = {
   'x': 'kh',
-  'k': 'c(q)',
+  'k': 'c(q)(k)',
   //   'k': 'q',
   'c': 'tr(ch)',
   //   'c': 'ch',
